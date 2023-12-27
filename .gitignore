@@ -1,0 +1,8 @@
+Resources/
+Resources/*.*
+.oenv
+my_vedios/
+my_vedios/*.*
+.ipynb_checkpoints
+.ipynb_checkpoints/*.*
+.ipynb_checkpoints/*
